@@ -1,0 +1,75 @@
+.main {
+    margin-top: 20px;
+}
+.main .post {
+    height: 100%;
+    display: flex;
+    margin-bottom: 50px;
+}
+.main .post .date {
+    width: 64px;
+    text-align: center;
+    margin-right: 30px;
+}
+.main .post .date .day {
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+.main .post .date .rest {
+    font-size: 10px;
+    font-weight: normal;
+}
+.main .post .date span {
+    display: block;
+}
+.post-inner {
+    width: 706px;
+}
+.post-inner h4{
+    line-height: 32px;
+    font-weight: 500;
+    font-size: 19px;
+}
+.post-inner p {
+    line-height: 30px;
+    font-size: 17px;
+}
+.pagination ul {
+    /* margin-bottom: 50px; */
+    font-size: 17px;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* posts区域样式 */
+.page-title {
+    color: #333;
+    margin: 30px 0 20px;
+    font-size: 32px;
+    font-weight: 500;
+}
+
+/* about区域样式 */
+.matter .title {
+    font-size: 40px;
+    font-weight: 500;
+}
+.markdown {
+    color: #333;
+    font-size: 17px;
+    line-height: 50px;
+}
+.markdown h2 {
+    color: #333;
+    font-size: 30px;
+    font-weight: 500;
+}
+.markdown li::before{
+    content: "ㅤ●ㅤ";
+}
+
+/* tag区样式 */
+.tags a {
+    margin-left: 15px;
+}
