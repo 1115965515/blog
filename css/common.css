@@ -68,7 +68,8 @@ header a {
 }
 .nav {
     height: 30px;
-    margin: 20px auto;
+    margin-top:  20px;
+    margin-bottom: 40px;
 }
 .nav a{
     margin-right: 32px;
