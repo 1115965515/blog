@@ -1,0 +1,79 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1307",
+      "name": "应用中心",
+      "font_class": "yingyongzhongxin",
+      "unicode": "f017a",
+      "unicode_decimal": 983418
+    },
+    {
+      "icon_id": "807275",
+      "name": "全屏",
+      "font_class": "quanping",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "827645",
+      "name": "麦克风",
+      "font_class": "maikefeng",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "1727442",
+      "name": "213麦克风",
+      "font_class": "maikefeng1",
+      "unicode": "e8c2",
+      "unicode_decimal": 59586
+    },
+    {
+      "icon_id": "3996123",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "5634526",
+      "name": "video",
+      "font_class": "video",
+      "unicode": "f14a",
+      "unicode_decimal": 61770
+    },
+    {
+      "icon_id": "15617493",
+      "name": "share-screen",
+      "font_class": "share-screen",
+      "unicode": "e8e2",
+      "unicode_decimal": 59618
+    },
+    {
+      "icon_id": "15726966",
+      "name": "信号-signal-fill",
+      "font_class": "xinhao-signal-fill",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "17003194",
+      "name": "菜单",
+      "font_class": "caidan",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "18170402",
+      "name": "消息,信息",
+      "font_class": "news-info-full",
+      "unicode": "e9b5",
+      "unicode_decimal": 59829
+    }
+  ]
+}
